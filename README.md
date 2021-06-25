@@ -4,14 +4,14 @@ For this challenge, you will need to review a pull request.
 
 We're interested in seeing: 
 
-A) How well you know Javascript
-B) How well you communicate what you know to others
-C) What you think is most important
+1. How well you know Javascript
+2. How well you communicate what you know to others
+3. What you think is most important
 
 We're not worried about: 
 
-A) How well you know Express (although it wouldn't hurt)
-B) How well you know how to use the BigQuery SDK (it's there, but it won't bite)
+1. How well you know Express (although it wouldn't hurt)
+2. How well you know how to use the BigQuery SDK (it's there, but it won't bite)
 
 There's no trap or trick here, try to treat it as you would in a realistic situation. Don't go overboard, 20 comments aren't needed, but try to leave more than 2 or we won't really know what you thought. Assume that everything can be changed, but that it works as it is.
 
