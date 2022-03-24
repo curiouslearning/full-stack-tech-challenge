@@ -1,9 +1,10 @@
 'use strict';
 
 var chai = require('chai'),
-    Promise = require('bluebird'),
-    chaiAsPromised = require('chai-as-promised'),
-    sinonChai = require('sinon-chai');
+Promise = require('bluebird'),
+chaiAsPromised = require('chai-as-promised'),
+sinonChai = require('sinon-chai');
+//  
 
 global.should = chai.should();
 chai.use(chaiAsPromised);
